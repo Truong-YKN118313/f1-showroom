@@ -14,7 +14,7 @@ Một showroom và trình giả lập đua xe Công thức 1 3D trên nền web 
 
 ### 🏎️ Chế độ Đua xe
 *   **Phiên phân hạng (Qualifying)**: Đưa xe F1 của bạn ra đường đua trong 3 vòng phân hạng để xác định vị trí xuất phát dựa trên thời gian vòng đua tốt nhất của bạn.
-*   **Đối thủ AI**: Đua với 10 chiếc xe do AI điều khiển (đại diện cho các đội F1 khác) cùng chạy trên đường đua với bạn.
+*   **Đối thủ AI**: Đua với 1 chiếc xe do AI điều khiển (đại diện cho các đội F1 khác) cùng chạy trên đường đua với bạn.
 *   **Đội hình xuất phát xen kẽ**: Các xe được sắp xếp chính xác theo đội hình xuất phát xen kẽ truyền thống của F1 trên lưới xuất phát.
 *   **Vật lý & Đo xa (Telemetry)**: Mô phỏng quá trình tăng tốc, phanh và đánh lái. Giao diện HUD đo xa theo thời gian thực hiển thị tốc độ KM/H, Số xe, Vòng tua máy (RPM), dung lượng pin ERS và tính khả dụng của DRS.
 *   **Bản đồ thu nhỏ (Minimap)**: Bản đồ thu nhỏ của đường đua trực tiếp theo dõi vị trí chiếc xe của bạn và các đối thủ AI.
